@@ -1,1 +1,2 @@
 # predict_credit_card_fraud_202401100400100
+This Python program is designed to detect credit card fraud using machine learning techniques. It leverages a dataset of anonymized transactions to train and evaluate a predictive model that distinguishes between legitimate and fraudulent activities. The project includes data preprocessing, model training, evaluation, and visualization steps. Ideal for those interested in data science, fraud detection, or practical machine learning applications.
